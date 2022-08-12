@@ -61,4 +61,4 @@ pip install pytesseract
 
 ### Installing spacy
 
-- use the following [link] (https://spacy.io/usage)
+- use the following [link](https://spacy.io/usage)
